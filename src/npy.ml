@@ -1,3 +1,5 @@
+open Camlzip
+
 exception Cannot_write
 exception Read_error of string
 
